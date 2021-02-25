@@ -1,0 +1,7 @@
+flask
+matplotlib
+pandas
+nltk
+re
+spacy
+heapq
